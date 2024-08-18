@@ -1,0 +1,16 @@
+/lmd_dataset/
+/data_visualization/
+/data_process/
+/workflow.txt
+/.idea
+/wandb
+logs/
+**/__pycache__
+*.sh
+sf2/UprightPianoKW-20220221.sf2
+sf2/YDP-GrandPiano-20160804.sf2
+sf2/
+*.wav
+*.mid
+*.mp3
+*.sf2

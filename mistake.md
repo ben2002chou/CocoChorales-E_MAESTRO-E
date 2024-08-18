@@ -1,0 +1,35 @@
+# generated file structure:
+cocochorales_with_mistakes:
+    label:
+        extra_notes:
+            8:
+                stems_midi:
+                    0_trumpet.mid
+                    1_french_horn.mid
+                    2_trombone.mid
+                    3_tuba.mid
+        ...
+        removed_notes:
+            8:
+                stems_midi:
+                    0_trumpet.mid
+                    1_french_horn.mid
+                    2_trombone.mid
+                    3_tuba.mid
+        ...
+    score:
+        8:
+            stems_midi:
+                0_trumpet.mid
+                1_french_horn.mid
+                2_trombone.mid
+                3_tuba.mid
+        ...
+    mistakes:
+        8:
+            stems_midi:
+                0_trumpet.mid
+                1_french_horn.mid
+                2_trombone.mid
+                3_tuba.mid
+        ...
