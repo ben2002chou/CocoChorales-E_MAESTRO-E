@@ -50,3 +50,14 @@ output_dir=[output_dir]
 mkdir -p $output_dir
 
 python create_maestro.py --midi_dir ${data_dir} --output_dir ${output_dir}
+
+## Citation:
+
+If you use our dataset in your research, please consider citing our paper:
+@inproceedings{chou_detecting_2025,
+  author = {Chou, Benjamin Shiue-Hal and Jajal, Purvish and Eliopoulos, Nicholas John and Nadolsky, Tim and Yang, Cheng-Yun and Ravi, Nikita and Davis, James C. and Yun, Kristen Yeon-Ji and Lu, Yung-Hsiang},
+  booktitle = {{AAAI} {Conference} on {Artificial} {Intelligence}},
+  publisher = {AAAI},
+  title = {Detecting {Music} {Performance} {Errors} with {Transformers}},
+  year = {2025}
+}
