@@ -1,10 +1,10 @@
 # Generating CocoChorales-E and MAESTRO-E
 
 // --- Overview ---
-This guide instructs you on generating the CocoChorales-E and MAESTRO-E datasets. Follow the instructions carefully.
+This guide instructs you on generating the CocoChorales-E and MAESTRO-E datasets. 
 
 # Setup:
-It is suggested to run these command in this order to avoid potential package conflicts due to midi-ddsp having outdated dependancies from tensorflow.
+It is suggested to run these commands in this order to avoid potential package conflicts due to midi-ddsp having outdated dependancies from tensorflow.
 
 ## Environment Setup:
 ```bash

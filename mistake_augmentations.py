@@ -1,4 +1,3 @@
-from music21 import *
 import math
 import copy
 import pretty_midi as pm
