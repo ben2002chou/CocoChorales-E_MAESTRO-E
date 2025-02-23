@@ -13,10 +13,6 @@ conda install nvidia/label/cuda-11.8.0::cuda-toolkit
 pip install midi-ddsp
 pip install numpy==1.23.0
 pip install pyloudnorm
-```
-
-## Model Weights & Additional Tools:
-```bash
 # Run the jupyter notebook which downloads a few files:
 # in midi-ddsp github:
 python download_model_weights.py 
